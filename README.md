@@ -1,4 +1,4 @@
-# Understanding Downforce in Formula 1: A High School Research Project
+# Understanding Downforce in Formula 1
 
 ## 📜 Project Overview
 
@@ -6,7 +6,12 @@ This repository documents a **high school research project** that investigated t
 
 This README provides a summary of the core concepts explored, methodologies used, and key learnings from this in-depth study.
 
-**Collaborative Project with:** ...
+---
+
+## 🧑‍🤝‍🧑 Team Members
+
+This project was a collaborative effort, developed alongside my talented team member:
+* **[Daniel Anisoreac]** - GitHub: **[@DAnisoreac](https://github.com/DAnisoreac)**
 
 ---
 
@@ -61,5 +66,11 @@ Our research also compiled several interesting facts and areas for further aerod
 
 ---
 
-## 📄 License
-© [2025] [Sushant Jasra Kumar]. All Rights Reserved.
+## 📄 Copyright and Licensing
+Copyright (c) 2025 [Sushant Jasra Kumar]
+
+The code for all projects in this portfolio is licensed under the **[MIT License](https://github.com/sushant1203/sushant1203/blob/main/LICENSE)**.
+
+All non-code assets, including PDF documents, images, and visual designs, are dedicated to the public domain under the **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://github.com/sushant1203/sushant1203/blob/main/LICENSE2)**.
+
+---
